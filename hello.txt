@@ -12,3 +12,5 @@ hello git!
 hello git! hot-fix
 test modify remote
 insert by demo2
+ssh push
+
